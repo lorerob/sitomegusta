@@ -1,0 +1,166 @@
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+nav .brand-logo {
+  color: #473335;
+  font-family: 'Gochi Hand', cursive;
+}
+
+.nav-wrapper {
+  position: fixed;
+  padding: 0 40px 0 100px;
+}
+
+
+.menu {
+  color: #548687;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  color: #cc2936;
+}
+
+<!-- Diventa stile giusto -->
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: red;
+  font-weight: 100px;
+  font-style: bold;
+}
+
+.section-intro {
+  height: 100%;
+  width: 100%;
+}
+
+  .titolo .row {
+    color: white;
+    font-weight: bolder;
+    margin: 100px 0 5px 0;
+  }
+
+
+div .subtitle {
+    color:white;
+    background-color: ;
+    width: 100%;
+    font-weight: 30000px;
+  }
+
+  .btn-large {
+    margin-top: 80px;
+  }
+
+.col {
+  font-weight: bolder;
+  font-weight:115000px;
+
+}
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+}
+
+  .section-intro {
+    margin-top:-60px;
+    margin-bottom: 30px;
+  }
+
+  .nav-wrapper {
+  padding: 0 10px; 
+  }
+
+
+nav .button-collapse i {
+    margin-top: 5px;
+
+  }
+
+   .btn-large {
+    margin-top: 0px;
+  }
+
+}
+
+.col-servizio{
+  margin-top: -30px;
+  color: black;
+}
+
+
+.icon-block {
+  padding: 0 15px;
+  margin-top: 20px;
+
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+.material-icons {
+  font-size: 7em;
+  margin-top: 70px;
+}
+
+.input-field {
+  margin-top: 60px;
+}
+
+.btn-registrazione {
+  width: 100%;
+  margin-right: 40px;
+}
+
+.btn-ospita {
+  width: 100%;
+  margin-top: 30px;
+  margin-right: 40px;
+}
+
+
+.col .s12 {
+  padding-top: -50%;
+  margin-top: -100px;
+  margin-bottom: 0px;
+}
+
+
+.page-footer {
+  margin: 0;
+  background-color: #fff;
+
+  }
+
+.mail {
+  font-size: 1.5em;
+  color: black;
+  padding: 0 2%;
+}
+
+.mail:hover{
+  color: #cc2936; 
+}
+
+
+<!-- Typeform -->
+
